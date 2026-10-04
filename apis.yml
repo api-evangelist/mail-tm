@@ -39,7 +39,6 @@ apis:
   - name: mail.tm
     description: "Temporary Email Service"
     humanURL: https://docs.mail.tm
-    baseURL: https://docs.mail.tm
     tags:
       - Email
     properties:
